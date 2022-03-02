@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/gvolt/cars/ufo/car"
+	"$vertexcolor" "1"
+	"$model"	"1"
+	"$alphatest"   "1"
+}
