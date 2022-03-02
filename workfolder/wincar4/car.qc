@@ -1,24 +1,24 @@
-$modelname "gvolt\cars\ufo\wheelfr.mdl"
+$modelname "gvolt\cars\wincar4\car.mdl"
 
-$bodygroup "wheelfr"
+$bodygroup "car"
 {
-	studio "wheelfr.smd"
+	studio "car.smd"
 }
 
 $surfaceprop "plastic"
 
-$cdmaterials "models\gvolt\cars\ufo"
+$cdmaterials "models\gvolt\cars\wincar4"
 
 $contents "solid"
 
 $sequence "idle" {
-	"wheelfr.smd"
+	"car.smd"
 	fadein 0.2
 	fadeout 0.2
 	fps 30
 }
 
-$collisionmodel "wheelfr.smd"
+$collisionmodel "car_phys.smd"
 {
 	$mass 1
 	$inertia 1

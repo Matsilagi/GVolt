@@ -1,4 +1,4 @@
-$modelname "gvolt\cars\ufo\wheelfr.mdl"
+$modelname "gvolt\cars\wincar4\wincar4.mdl"
 
 $bodygroup "wheelfr"
 {
@@ -7,7 +7,7 @@ $bodygroup "wheelfr"
 
 $surfaceprop "plastic"
 
-$cdmaterials "models\gvolt\cars\ufo"
+$cdmaterials "models\gvolt\cars\wincar"
 
 $contents "solid"
 
